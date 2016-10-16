@@ -25,7 +25,7 @@ switch(_shop) do {
 			default {
 				["Altis Cop Shop",
 					[
-						["SMG_02_F",nil,7500],
+						["SMG_02_F",nil,7550],
 						["SMG_05_F",nil,7500],
 						["hgun_P07_snds_F","Stun Pistol",2000],
 						["optic_Holosight_smg",nil,1100],
