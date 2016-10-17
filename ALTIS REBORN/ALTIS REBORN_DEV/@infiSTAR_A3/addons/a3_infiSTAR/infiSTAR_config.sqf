@@ -79,7 +79,7 @@ _use_html_load_on_adminmenu = true;		/* default and recommended is TRUE. infiSTA
 _adminUIDandAccess =
 [
 	[
-		['76561197978276432','76561198067925668','76561198007020809','76561198074426468'],	// Admin lvl 5
+		['76561197978276432','76561198067925668','76561198007020809','76561198074426468','76561198049763982','76561198251801166','76561198128602571','76561198045709258','76561198024707876','76561198073821219'],	// Admin lvl 5
 		[
 			'Teleport On Map Click','Teleport - Target To Me','Teleport - Me To Target','Teleport In Facing Direction (10m steps)',
 			'spectating','AdminConsole','Delete Vehicle','FlyUp','EjectTarget','ToggleVehLock','UpgradeBuilding','ShowGear',
